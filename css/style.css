@@ -476,3 +476,7 @@ header h2 {
     color: #ffc805;
     font-size: 14px;
 }
+#submit svg {
+    width: 40px !important;
+    height: 40px !important;
+}
